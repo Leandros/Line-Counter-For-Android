@@ -1,4 +1,4 @@
-![lcfa Header](/readme_files/header.png)
+![lcfa Header](https://github.com/Leandros/Line-Counter-For-Android/blob/master/readme_files/header.png?raw=true)
 
 
 
