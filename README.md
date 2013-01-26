@@ -1,3 +1,7 @@
+![lcfa Header](/readme_files/header.png)
+
+
+
 Line Counter For Android
 ========================
 
