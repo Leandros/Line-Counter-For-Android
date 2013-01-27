@@ -9,6 +9,7 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
+
 	const char * help[] = { "--help", "-h" };
 	const char * commands[] = { "--no-files", "-nf", "--version" };
 	const char * empty[] = { "" };
